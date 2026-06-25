@@ -1,0 +1,6 @@
+{
+  "name": "Aniku",
+  "description": "Platform streaming dan browsing anime sub Indo dengan desain Cinematic Dark premium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
